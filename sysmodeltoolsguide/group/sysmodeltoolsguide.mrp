@@ -1,0 +1,9 @@
+component	depl_swconfigapps_swmgnttoolsguides_sysmodeltoolsguide
+
+source /src/tools/depl/swconfigapps/swmgnttoolsguides/sysmodeltoolsguide/com.nokia.sysmodel_0.1.jar
+source /src/tools/depl/swconfigapps/swmgnttoolsguides/sysmodeltoolsguide/group/sysmodeltoolsguide.mrp
+source /src/tools/depl/swconfigapps/swmgnttoolsguides/sysmodeltoolsguide/group/bld.inf
+
+exports /src/tools/depl/swconfigapps/swmgnttoolsguides/sysmodeltoolsguide/group
+
+notes_source	\component_defs\release.src
